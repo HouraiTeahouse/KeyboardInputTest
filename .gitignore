@@ -1,0 +1,7 @@
+.vscode/
+*.csproj
+Library/
+obj/
+Temp/
+build/
+*.sln
